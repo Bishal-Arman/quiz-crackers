@@ -10,9 +10,9 @@
     margin-top: 30px;
 }
 .eye-icon{
-    width: 25px;
+    width: 45px;
     margin-left: 30px;
-    color: blue;
+    color: rgb(110, 110, 157);
 }
 .modal-title{
     color: rgb(189, 133, 64);
@@ -28,4 +28,11 @@
 }
 .cl{
     background-color: yellowgreen;
+}
+@media only screen and (max-width: 768px){
+    .eye-icon{
+        width:120px;
+        margin-left: 30px;
+        color: rgb(110, 110, 157);
+    }
 }

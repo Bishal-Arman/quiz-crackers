@@ -12,7 +12,7 @@ const Statistics = () => {
    
 
 <div className='chart'>
-<ResponsiveContainer  width="100%" height={300}>
+<ResponsiveContainer  width={500} height={400}>
       <BarChart
         data={info}
         margin={{
