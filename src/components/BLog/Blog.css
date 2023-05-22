@@ -1,0 +1,22 @@
+.important-topic{
+    border: 1px solid rgb(239, 232, 232);
+    padding: 10px;
+    margin: 20px 20px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.blog h1{
+    text-align: center;
+    margin:40px;
+    color: #ad32ad;
+    font-size:35px;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+}
+.important-topic h3{
+color:#358f47;
+}
+.important-topic p{
+color: #1600b0;
+font-size:19px;
+}

@@ -1,0 +1,12 @@
+.error-page{
+    background-color:#4e2b4e;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.error-page h1,h4{
+    color:#cd2020;
+
+}

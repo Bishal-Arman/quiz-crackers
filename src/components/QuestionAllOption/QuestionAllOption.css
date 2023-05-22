@@ -1,0 +1,16 @@
+.option{
+    border:2px solid rgb(241, 230, 230);
+   padding-top:8px;
+    border-radius: 15px;
+   
+}
+.option:hover{
+    background-color: rgb(159, 159, 221);
+}
+.checkbox{
+    margin-right: 8px;
+}
+.selected-answer {
+    background: #910691;
+   
+  }
